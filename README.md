@@ -1,4 +1,4 @@
-# HAUT-netclient [![AUR](https://img.shields.io/aur/license/yaourt.svg)](http://www.gnu.org/licenses/gpl-3.0.en.html)
+# HAUT-netclient
 
   **coding by Python3** 
 
